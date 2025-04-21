@@ -1,0 +1,25 @@
+
+
+My custom Neovim setup using NvChad.
+
+
+Installation
+
+    1. Install NvChad base.
+
+       https://nvchad.com/docs/quickstart/install
+
+    2. Clone my custom config.
+
+       Windows PowerShell:
+
+           git clone https://github.com/wxrayut/nvchad.wxrayut $env:LOCALAPPDATA\nvim; nvim
+
+       Linux/macOS:
+
+           I don't know.
+
+
+License
+
+    https://github.com/wxrayut/nvchad.wxrayut/blob/main/LICENSE
