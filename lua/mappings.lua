@@ -44,3 +44,6 @@ map("n", "<A-Left>", "<cmd>vertical resize -2<CR>", { desc = "Resize split left"
 map("n", "<A-Right>", "<cmd>vertical resize +2<CR>", { desc = "Resize split right" })
 map("n", "<A-Up>", "<cmd>resize -2<CR>", { desc = "Resize split up" })
 map("n", "<A-Down>", "<cmd>resize +2<CR>", { desc = "Resize split down" })
+
+-- In insert mode, type `;;` and it'll expand to: `${}` inside backticks
+map("i", ";;", "`${}`<Left><Left>", { desc = "Insert template literal" })
