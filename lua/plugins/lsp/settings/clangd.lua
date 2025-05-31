@@ -13,7 +13,7 @@ return {
     "--offset-encoding=utf-16",
     -- "--clang-tidy-checks=-*,llvm-*,clang-analyzer-*,modernize-*,-modernize-use-trailing-return-type",
     -- "--fallback-style=Google",
-    -- "--header-insertion=never",
+    "--header-insertion=never",
     -- "--query-driver=<list-of-white-listed-complers>"
   },
 }
