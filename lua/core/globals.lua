@@ -20,6 +20,7 @@ local global = {
   mapleader = " ",
   maplocalleader = "\\",
   disable_autoformat = false,
+  disable_discord_rich_presence = false,
   os = os,
   is_windows = is_windows,
   path_delimiter = is_windows and ";" or ":",
