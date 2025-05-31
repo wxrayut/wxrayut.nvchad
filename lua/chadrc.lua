@@ -34,7 +34,7 @@ M.ui = {
     },
   },
   statusline = {
-    theme = "minimal", -- default/vscode/vscode_colored/minimal
+    theme = "vscode", -- default/vscode/vscode_colored/minimal
     -- default/round/block/arrow separators work only for default statusline theme
     -- round and block will work for minimal theme only
     separator_style = "round",
@@ -63,7 +63,7 @@ M.ui = {
 
 M.nvdash = {
   load_on_startup = true,
-  header = get_header "nvchad",
+  header = get_header "gojo",
   buttons = {
     { txt = "  Find File", keys = "Spc f f", cmd = "Telescope find_files" },
     { txt = "󰈚  Recent Files", keys = "Spc f r", cmd = "Telescope oldfiles" },
