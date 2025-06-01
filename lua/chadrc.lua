@@ -103,7 +103,7 @@ M.mason = {
     "deno",
     "vue-language-server",
     "tailwindcss-language-server",
-    "emmet_language_server",
+    "emmet-ls",
     "eslint-lsp",
 
     -- PHP
