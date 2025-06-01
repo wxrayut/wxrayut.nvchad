@@ -110,8 +110,8 @@ M.mason = {
     -- "intelephense",
 
     -- C/C++
-    -- "clangd",
-    -- "clang-format",
+    "clangd",
+    "clang-format",
 
     -- CMake
     -- "neocmakelsp",
