@@ -97,14 +97,14 @@ M.mason = {
     "stylua",
 
     -- Web Development
-    -- "css-lsp",
-    -- "html-lsp",
-    -- "typescript-language-server",
-    -- "deno",
-    -- "vue-language-server",
-    -- "tailwindcss-language-server",
-    -- "emmet_language_server",
-    -- "eslint-lsp",
+    "css-lsp",
+    "html-lsp",
+    "typescript-language-server",
+    "deno",
+    "vue-language-server",
+    "tailwindcss-language-server",
+    "emmet_language_server",
+    "eslint-lsp",
 
     -- PHP
     -- "intelephense",
