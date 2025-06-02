@@ -31,6 +31,10 @@ In windows, you can use [scoop](https://scoop.sh/) to install them.
   - [make](https://www.gnu.org/software/make/)
   - [mingw-nuwen](https://nuwen.net/mingw.html)
 
+- **Live Server:**
+
+  - [Node.js](https://nodejs.org/) (required for [live-server.nvim](https://github.com/barrett-ruth/live-server.nvim))
+
 - **Nerd Font (For Icons):**
 
   - [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono)
@@ -81,6 +85,7 @@ Please follow these steps:
 - **Git Integration**: Effortlessly manage Git repositories with [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) and [lazygit](https://github.com/jesseduffield/lazygit).
 - **Keymap Cheatsheet**: Quickly reference keymaps with [which-key.nvim](https://github.com/folke/which-key.nvim).
 - **Discord Rich Presence**: Tailor your presence like never before with [cord.nvim](https://github.com/vyfor/cord.nvim).
+- **Live Server**: Live reload HTML, CSS, and JavaScript with [live-server.nvim](https://github.com/barrett-ruth/live-server.nvim).
 <!-- - **Markdown Preview**: Preview your Markdown files with [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim). -->
 
 ## 🌟 Stargazers
