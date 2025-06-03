@@ -106,6 +106,10 @@ M.mason = {
     "emmet-ls",
     "eslint-lsp",
 
+    -- Databases / ORMs
+    -- "sql-language-server",
+    "prisma-language-server",
+
     -- PHP
     -- "intelephense",
 
