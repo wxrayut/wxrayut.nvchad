@@ -185,6 +185,9 @@ vim.keymap.set("n", "<", "<<", { desc = "General | Indent backward", silent = tr
 -- Indent forward
 vim.keymap.set("n", ">", ">>", { desc = "General | Indent forward", silent = true })
 
+-- Insert template literal
+vim.keymap.set("i", ";;", "`${}`<Left><Left>", { desc = "Insert template literal", silent = true })
+
 -- Move the line up
 vim.keymap.set("n", "<A-j>", "<cmd>m .+1<CR>==", { desc = "General | Move the line up", silent = true })
 
