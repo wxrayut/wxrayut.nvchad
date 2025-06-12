@@ -88,20 +88,6 @@ Please follow these steps:
 - **Live Server**: Live reload HTML, CSS, and JavaScript with [live-server.nvim](https://github.com/barrett-ruth/live-server.nvim).
 <!-- - **Markdown Preview**: Preview your Markdown files with [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim). -->
 
-## 🌟 Stargazers
+## 🙏 CREDITS
 
-I appreciate the support from all the Stargazers!
-
-[![Stargazers](http://reporoster.com/stars/dark/notext/Alexis12119/nvim-config)](https://github.com/Alexis12119/nvim-config/stargazers)
-
-### CREDITS
-
-This Neovim configuration is built upon the foundation of NvChad. Special thanks to the NvChad community and developers for their fantastic work.
-
-- [NvChad](https://github.com/NvChad/NvChad)
-
-> “Make it work, make it right, make it fast.”
-
-\- Kent Beck
-
----
+Thanks to [@Alexis12119](https://github.com/Alexis12119) for the excellent setup. Check out the original repository at [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config).
