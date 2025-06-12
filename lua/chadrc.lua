@@ -63,7 +63,7 @@ M.ui = {
 
 M.nvdash = {
   load_on_startup = true,
-  header = get_header "gojo",
+  header = get_header "Rei",
   buttons = {
     { txt = "  Find File", keys = "Spc f f", cmd = "Telescope find_files" },
     { txt = "󰈚  Recent Files", keys = "Spc f r", cmd = "Telescope oldfiles" },
@@ -128,6 +128,7 @@ M.mason = {
 
     -- Python
     -- "basedpyright",
+    "pyright",
 
     -- Go
     -- "gopls",
