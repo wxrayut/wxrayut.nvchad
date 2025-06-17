@@ -44,6 +44,7 @@ local options = {
   -- shellpipe = "2>&1 | Out-File -Encoding UTF8 %s; exit $LastExitCode",
   -- shellquote = "",
   -- shellxquote = "",
+  guicursor = "n-v-c-i:block", -- use a block cursor in normal, visual, command, and insert modes
 }
 
 vim.opt.shortmess:append "Ac" -- Disable asking
