@@ -16,7 +16,7 @@ function Clone-Repository {
 }
 
 # Main script
-$ConfigRepo = "https://github.com/Alexis12119/nvim-config.git"
+$ConfigRepo = "https://github.com/wxrayut/wxrayut.nvim.git"
 $ConfigPlugins = "$env:LOCALAPPDATA\nvim-data\lazy"
 $ConfigPath = "$env:LOCALAPPDATA\nvim"
 
