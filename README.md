@@ -51,7 +51,7 @@ In windows, you can use [scoop](https://scoop.sh/) to install them.
 #### Linux/macOS
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Alexis12119/nvim-config/main/installer/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/wxrayut/wxrayut.nvim/main/installer/install.sh)
 ```
 
 #### Windows (PowerShell)
@@ -59,7 +59,7 @@ bash <(curl -s https://raw.githubusercontent.com/Alexis12119/nvim-config/main/in
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-Invoke-WebRequest https://raw.githubusercontent.com/Alexis12119/nvim-config/main/installer/install.ps1 -UseBasicParsing |
+Invoke-WebRequest https://raw.githubusercontent.com/wxrayut/wxrayut.nvim/main/installer/install.ps1 -UseBasicParsing |
 Invoke-Expression
 ```
 
