@@ -81,10 +81,10 @@ Invoke-Expression
 
    ```bash
    # Linux/macOS
-   git clone https://github.com/Alexis12119/nvim-config.git ~/.config/nvim
+   git clone https://github.com/wxrayut/wxrayut.nvim.git ~/.config/nvim
 
    # Windows
-   git clone https://github.com/Alexis12119/nvim-config.git $env:LOCALAPPDATA\nvim
+   git clone https://github.com/wxrayut/wxrayut.nvim.git $env:LOCALAPPDATA\nvim
    ```
 
 3. Start Neovim and let Lazy install the plugins:
@@ -362,3 +362,7 @@ see the [LICENSE](LICENSE) file for details.
 
 - **LazyVim Docs**: [https://lazyvim.github.io/](https://lazyvim.github.io/)
 - **Neovim**: [https://neovim.io/](https://neovim.io/)
+
+## Original Author
+
+Thanks to [@Alexis12119](https://github.com/Alexis12119) for the excellent setup. Check out the original repository at [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config).
