@@ -109,6 +109,9 @@ vim.o.helpheight = 10
 -- Specify what’s saved in a session
 vim.o.sessionoptions = "blank,buffers,curdir,folds,help,tabpages,winsize,winpos,terminal,localoptions"
 
+-- Set cursor shap to block in all modes
+vim.o.guicursor = "n-v-c:block,i-ci-ve:block,r-cr-o:block"
+
 -- ====================================================================
 -- Extended options
 -- ====================================================================
